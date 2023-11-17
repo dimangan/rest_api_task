@@ -1,0 +1,10 @@
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (79, 'Республика Адыгея', 'RU-AD');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (84, 'Республика Алтай', 'RU-AL');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (80, 'Республика Башкортостан', 'RU-BA');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (81, 'Республика Бурятия', 'RU-BU');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (82, 'Республика Дагестан', 'RU-DA');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (26, 'Республика Ингушетия', 'RU-IN');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (85, 'Республика Калмыкия', 'RU-KL');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (86, 'Республика Карелия', 'RU-KR');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (87, 'Республика Коми', 'RU-KO');
+INSERT INTO REGIONS (id, region_name, cut_region_name) VALUES (89, 'Республика Мордовия', 'RU-MO');
