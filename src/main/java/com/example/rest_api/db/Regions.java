@@ -1,4 +1,4 @@
-package com.taskREST.rest_api.db;
+package com.example.rest_api.db;
 
 import jakarta.persistence.*;
 import lombok.Data;

@@ -1,7 +1,7 @@
-package com.taskREST.rest_api;
+package com.example.rest_api;
 
-import com.taskREST.rest_api.db.Regions;
-import com.taskREST.rest_api.db.RegionMapper;
+import com.example.rest_api.db.Regions;
+import com.example.rest_api.db.RegionMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;
