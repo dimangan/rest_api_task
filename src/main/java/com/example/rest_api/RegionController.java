@@ -34,11 +34,6 @@ public class RegionController {
     @Cacheable(cacheNames = {"regionsCache"}, key = "#id", unless = "#result == null")
     @GetMapping("/regions/{id}")
     public Regions getRegionById(@PathVariable("id") Long id){
-        try {
-            TimeUnit.SECONDS.sleep(3L);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
         return regionMapper.getRegionById(id);
     }
 
